@@ -38,7 +38,7 @@ where:
 * **salmonella-enterica.reads.fna** is the Wild Type file
 * **salmonella-enterica-variant.reads.fna** is the Variant Type file
 
-Once launched, after the computation of the **file1** and **file2** the tool shows a plot of the aboundance of the k-mers. After each plot an integer input parameter **p** (sequencing error parameter) has to be inserted. The files used can be downloaded at: https://cloud-ljk.imag.fr/index.php/s/HkxDLozHRcqBcqz
+The files used can be downloaded at: https://cloud-ljk.imag.fr/index.php/s/HkxDLozHRcqBcqz
 
 ## Results
 Results are presented as:
