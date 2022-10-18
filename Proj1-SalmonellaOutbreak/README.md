@@ -42,6 +42,8 @@ The files used can be downloaded at: https://cloud-ljk.imag.fr/index.php/s/HkxDL
 
 ## Results
 Results are presented as:
+![myimage-alt-tag](https://github.com/HanningYang/ComputationalBiology/blob/main/Proj1-SalmonellaOutbreak/result.png)
+
 [result.png](result.png)
 ```
 SNP
