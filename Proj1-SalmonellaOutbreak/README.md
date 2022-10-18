@@ -27,7 +27,7 @@ Main libraries:
 * numpy==1.21.4
 
 ## Setup
-Before running the programme, reading the  [Report.pdf](Report.pdf) is highly recommended.
+Before running the programme, reading the  [finalreport.pdf](finalreport.pdf) is highly recommended.
 
 To run this project, after installing the requirements, open the terminal and launch it as:
 ```
