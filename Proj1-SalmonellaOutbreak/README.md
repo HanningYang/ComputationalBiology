@@ -35,9 +35,8 @@ $ python main0.py -f1 "PATH TO salmonella-enterica.reads.fna" -f2
 "PATH TO salmonella-enterica-variant.reads.fna"
 ```
 where:
-* **file1.fasta** is the Wild Type file
-* **file2.fasta** is the Variant Type file
-* **k** is the lenght of the k-mer (default value 50)
+* **salmonella-enterica.reads.fna** is the Wild Type file
+* **salmonella-enterica-variant.reads.fna** is the Variant Type file
 
 Once launched, after the computation of the **file1** and **file2** the tool shows a plot of the aboundance of the k-mers. After each plot an integer input parameter **p** (sequencing error parameter) has to be inserted. The files used can be downloaded at: https://cloud-ljk.imag.fr/index.php/s/HkxDLozHRcqBcqz
 
