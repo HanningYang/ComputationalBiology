@@ -42,6 +42,7 @@ The files used can be downloaded at: https://cloud-ljk.imag.fr/index.php/s/HkxDL
 
 ## Results
 Results are presented as:
+[result.png](result.png)
 ```
 SNP
     R: TTACATGCCAATACAATGTAGGCTGCTCTACACCTAGCTTCTGGGCGAGTTTACGGGTTGTTAAACCTTCGATTCCGACCTCATTAAGCAGCTCTAATGCG
