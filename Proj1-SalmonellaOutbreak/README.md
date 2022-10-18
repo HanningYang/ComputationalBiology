@@ -31,7 +31,8 @@ Before running the programme, reading the  [finalreport.pdf](finalreport.pdf) is
 
 To run this project, after installing the requirements, open the terminal and launch it as:
 ```
-$ python main.py file1.fasta file2.fasta -k 50
+$ python main0.py -f1 "PATH TO salmonella-enterica.reads.fna" -f2 
+"PATH TO salmonella-enterica-variant.reads.fna"
 ```
 where:
 * **file1.fasta** is the Wild Type file
